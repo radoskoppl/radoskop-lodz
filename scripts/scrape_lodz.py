@@ -1184,6 +1184,9 @@ def main():
     except Exception as e:
         print(f"\n\nBŁĄD: {e}")
         import traceback
+        traceback.print_exc()
+        sys.exit(1)
+
 
 def compact_named_votes(output):
     """Convert named_votes from string arrays to indexed format for smaller JSON."""
@@ -1205,10 +1208,6 @@ def compact_named_votes(output):
             for cat in nv:
                 nv[cat] = sorted(name_to_idx[n] for n in nv[cat] if isinstance(n, str) and n in name_to_idx)
     return output
-
-
-        traceback.print_exc()
-        sys.exit(1)
 
 
 
