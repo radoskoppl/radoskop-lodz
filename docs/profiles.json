@@ -25,15 +25,15 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_281_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_281_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie pkt. 33a jako pkt 21a.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_291_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_291_000",
+              "session": "2024-09-19",
               "topic": "Łączne procedowanie punktów 23 i 24.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -60,15 +60,15 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1219_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1219_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny o opinię prawną w sprawie klsyfikacji dróg.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
@@ -136,15 +136,15 @@
           "rebellion_count": 10,
           "rebellions": [
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_336_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_336_000",
+              "session": "2024-10-17",
               "topic": "15C. Rozpatrzenie projektu uchwały w sprawie ustanowienia na terenie Miasta Łodzi roku 2025 Rokiem Rewolucji 1905 roku - druk BRM nr 151/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -373,57 +373,57 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_240_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_240_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 33a - Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_242_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_242_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 5b - Informacja Prezydenta Miasta Łodzi w sprawie pomocy udzielonej przez Miasto mieszkańcom kamienicy przy ul. 1 Maja 23.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_282_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_282_000",
+              "session": "2024-09-19",
               "topic": "Reasumpcja głosowania w sprawie przesunięcia punktu 33a do punktu 21a.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_289_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_289_000",
+              "session": "2024-09-19",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_313_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_313_000",
+              "session": "2024-10-17",
               "topic": "Wprowadzenie do porządku obrad punktu 15f - Rozpatrzenie projektu uchwały w sprawie nadania Odznaki „Za Zasługi dla Miasta Łodzi” - druk BRM nr 157/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_377_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_377_000",
+              "session": "2024-10-17",
               "topic": "21B. Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic: Małego Rycerza, Suszarnianej, Cierniówki i Wiskickiej - druk nr 246/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_382_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_382_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyznania pierwszeństwa w nabyciu lokalu użytkowego nr 4U usytuowanego w budynku położonym w Łodzi przy ul. Władysława Broniewskiego 67 jego najemcy - druk nr 233/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -611,50 +611,50 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1087_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1087_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonej w Łodzi przy ulicy gen. Jarosława Dąbrowskiego 23 oraz na odstąpienie od zbycia jej w drodze przetargu - druk nr 166/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1226_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1226_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy alei 1 Maja 58 i ulicy Przechodniej 30 oraz na odstąpienie od zbycia w drodze przetargu nieruchomości - druk nr 226/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1233_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1233_000",
+              "session": "2025-10-23",
               "topic": "Uwagi nr 2 i 3",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1234_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1234_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 4",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -924,15 +924,15 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_281_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_281_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie pkt. 33a jako pkt 21a.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_282_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_282_000",
+              "session": "2024-09-19",
               "topic": "Reasumpcja głosowania w sprawie przesunięcia punktu 33a do punktu 21a.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -1190,92 +1190,92 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1082_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1082_000",
+              "session": "2025-09-04",
               "topic": "Wniosek formalny radnego p. Marcina Hencza dotyczący odesłania do Komisji Finansów Budżetu i Polityki Podatkowej projektu uchwały zmieniającej uchwałę w sprawie ustalenia opłat za usługi przewozowe lokalnego transportu zbiorowego w Łodzi - druk BRM 109/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1107_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1107_000",
+              "session": "2025-10-07",
               "topic": "Informacja Prezydenta Miasta Łodzi na temat czynszów w lokalach komunalnych w pkt. 3a",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1232_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1232_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 1",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1233_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1233_000",
+              "session": "2025-10-23",
               "topic": "Uwagi nr 2 i 3",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1234_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1234_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 4",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1235_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1235_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 5",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1236_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1236_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 6",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1237_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1237_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 7",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1238_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1238_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 8",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1248_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1248_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 209/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -1515,15 +1515,15 @@
           "rebellion_count": 5,
           "rebellions": [
             {
-              "vote_id": "2024-09-18_242_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_242_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 5b - Informacja Prezydenta Miasta Łodzi w sprawie pomocy udzielonej przez Miasto mieszkańcom kamienicy przy ul. 1 Maja 23.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -1822,127 +1822,127 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_251_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_251_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 148/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_252_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_252_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Dyrektora Zarządu Lokali Miejskich - druk BRM nr 149/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_253_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_253_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi p. Izabeli Kaczmarskiej, p. … i p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 150/2024.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_254_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_254_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2024 rok - druk nr 221/2024 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_320_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_320_000",
+              "session": "2024-10-17",
               "topic": "Wprowadzenie do porządku obrad punktu 22a - Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie ustanowienia na obszarze rewitalizacji miasta Łodzi Specjalnej Strefy Rewitalizacji - druk nr 251/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_326_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_326_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie pozostawienia bez rozpoznania skargi p. … - druk BRM nr 163/2024.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_328_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_328_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przekazania skargi według właściwości - druk BRM nr 165/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_329_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_329_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przekazania skargi według właściwości - druk BRM nr 166/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_332_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_332_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie petycji dotyczącej uznania trzech topoli, rosnących w Parku im. Szarych Szeregów, za pomniki przyrody - druk BRM nr 169/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_341_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_341_000",
+              "session": "2024-10-17",
               "topic": "15F. p. Krzysztof Chmiela",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_362_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_362_000",
+              "session": "2024-10-17",
               "topic": "15F. Stowarzyszenie Klub 500 - Łódź",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_364_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_364_000",
+              "session": "2024-10-17",
               "topic": "15F. Rozpatrzenie projektu uchwały w sprawie nadania Odznaki „Za Zasługi dla Miasta Łodzi” - druk BRM nr 157/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_365_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_365_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2024 rok - druk nr 237/2024 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_366_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_366_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2024-2050 - druk nr 238/2024 wraz z autopoprawką.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_371_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_371_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Miejskiego planu adaptacji do zmian klimatu dla miasta Łodzi na lata 2024-2030” - druk nr 228/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_372_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_372_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Planu działań na rzecz zrównoważonej energii i klimatu dla miasta Łodzi (SECAP)” - druk nr 229/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_373_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_373_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Strategii zazieleniania Łodzi” do 2030 r. z perspektywą do 2050 r. - druk nr 230/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -2781,204 +2781,204 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1084_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1084_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 187/2025 wraz z autopoprawką.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1085_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1085_000",
+              "session": "2025-09-04",
               "topic": "17A. Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi - druk nr 193/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1086_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1086_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na przekazanie w drodze darowizny na rzecz Politechniki Łódzkiej prawa własności nieruchomości, położonych w Łodzi przy ulicach prof. Bohdana Stefanowskiego bez numeru i Walerego Wróblewskiego 3/5 - druk nr 137/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1090_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1090_000",
+              "session": "2025-09-04",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie przyjęcia Wieloletniego programu gospodarowania mieszkaniowym zasobem Miasta Łodzi na lata 2025-2030 - druk nr 192/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-03_1091_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1091_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie ustalenia lokalizacji inwestycji mieszkaniowej przy ulicy Nowej 29/31 i inwestycji towarzyszących w rejonie ulicy Nowej w Łodzi - druk nr 168/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1092_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1092_000",
+              "session": "2025-09-04",
               "topic": "Zdjęcie punktu 23 z porządku obrad - druk nr 169/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1093_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1093_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie ustalenia lokalizacji inwestycji mieszkaniowej przy ulicy Prezydenta Gabriela Narutowicza 75a i Tramwajowej bez numeru i inwestycji towarzyszących w rejonie ulicy Tramwajowej w Łodzi - druk nr 170/2025 wraz z autopopraką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1096_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1096_000",
+              "session": "2025-09-04",
               "topic": "Odrzucenie uwagi nr 1.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1097_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1097_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic Pomorskiej i Mileszki - druk nr 160/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1177_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1177_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 26b - Rozpatrzenie projektu uchwały w sprawie wniosku p. …… - druk BRM nr 151 /2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1178_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1178_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 26c - Rozpatrzenie projektu uchwały w sprawie wniosku p…….. - druk BRM nr 152/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1192_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1192_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8b - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1211_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1211_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2025 rok - druk nr 223/2025 wraz z autopoprawką.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1213_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1213_000",
+              "session": "2025-10-23",
               "topic": "8A. Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi - druk nr 229/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1214_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1214_000",
+              "session": "2025-10-23",
               "topic": "8B. Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1215_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1215_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie określenia wysokości stawek podatku od nieruchomości na 2026 rok - druk nr 227/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1216_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1216_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie określenia wysokości stawek podatku od środków transportowych na 2026 rok - druk nr 228/2025.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1224_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1224_000",
+              "session": "2025-10-23",
               "topic": "15C. Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie nadania statutu Schronisku dla Zwierząt - druk nr 235/2025 wraz z autopoprawką",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1226_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1226_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy alei 1 Maja 58 i ulicy Przechodniej 30 oraz na odstąpienie od zbycia w drodze przetargu nieruchomości - druk nr 226/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1232_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1232_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 1",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1234_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1234_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 4",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1235_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1235_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 5",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1236_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1236_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 6",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1237_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1237_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 7",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1238_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1238_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 8",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1239_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1239_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 9",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1240_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1240_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 10",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1248_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1248_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 209/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -3556,8 +3556,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1224_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1224_000",
+              "session": "2025-10-23",
               "topic": "15C. Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie nadania statutu Schronisku dla Zwierząt - druk nr 235/2025 wraz z autopoprawką",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -3618,8 +3618,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1193_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1193_000",
+              "session": "2025-10-23",
               "topic": "Informacja Przewodniczącego Rady Miejskiej w Łodzi w sprawie wniosku do Prokuratury.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
@@ -3685,8 +3685,8 @@
           "rebellion_count": 3,
           "rebellions": [
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -4027,162 +4027,162 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_236_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_236_000",
+              "session": "2024-09-19",
               "topic": "Propozycje ograniczeń czasowych wystąpień.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_240_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_240_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 33a - Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_251_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_251_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 148/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_252_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_252_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Dyrektora Zarządu Lokali Miejskich - druk BRM nr 149/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_253_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_253_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi p. Izabeli Kaczmarskiej, p. … i p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 150/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_254_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_254_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2024 rok - druk nr 221/2024 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_281_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_281_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie pkt. 33a jako pkt 21a.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_282_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_282_000",
+              "session": "2024-09-19",
               "topic": "Reasumpcja głosowania w sprawie przesunięcia punktu 33a do punktu 21a.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_289_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_289_000",
+              "session": "2024-09-19",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_307_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_307_000",
+              "session": "2024-10-17",
               "topic": "Propozycje ograniczeń czasowych wystąpień.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_320_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_320_000",
+              "session": "2024-10-17",
               "topic": "Wprowadzenie do porządku obrad punktu 22a - Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie ustanowienia na obszarze rewitalizacji miasta Łodzi Specjalnej Strefy Rewitalizacji - druk nr 251/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_328_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_328_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przekazania skargi według właściwości - druk BRM nr 165/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_329_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_329_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przekazania skargi według właściwości - druk BRM nr 166/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_332_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_332_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie petycji dotyczącej uznania trzech topoli, rosnących w Parku im. Szarych Szeregów, za pomniki przyrody - druk BRM nr 169/2024.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_362_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_362_000",
+              "session": "2024-10-17",
               "topic": "15F. Stowarzyszenie Klub 500 - Łódź",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_364_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_364_000",
+              "session": "2024-10-17",
               "topic": "15F. Rozpatrzenie projektu uchwały w sprawie nadania Odznaki „Za Zasługi dla Miasta Łodzi” - druk BRM nr 157/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_365_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_365_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2024 rok - druk nr 237/2024 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_366_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_366_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2024-2050 - druk nr 238/2024 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_371_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_371_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Miejskiego planu adaptacji do zmian klimatu dla miasta Łodzi na lata 2024-2030” - druk nr 228/2024.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_372_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_372_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Planu działań na rzecz zrównoważonej energii i klimatu dla miasta Łodzi (SECAP)” - druk nr 229/2024.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_373_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_373_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Strategii zazieleniania Łodzi” do 2030 r. z perspektywą do 2050 r. - druk nr 230/2024.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_380_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_380_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Gminnego Programu Opieki nad Zabytkami Miasta Łodzi na lata 2024-2027” - druk nr 218/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
@@ -4713,218 +4713,218 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1084_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1084_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 187/2025 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1085_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1085_000",
+              "session": "2025-09-04",
               "topic": "17A. Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi - druk nr 193/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1090_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1090_000",
+              "session": "2025-09-04",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie przyjęcia Wieloletniego programu gospodarowania mieszkaniowym zasobem Miasta Łodzi na lata 2025-2030 - druk nr 192/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1091_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1091_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie ustalenia lokalizacji inwestycji mieszkaniowej przy ulicy Nowej 29/31 i inwestycji towarzyszących w rejonie ulicy Nowej w Łodzi - druk nr 168/2025 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-03_1092_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1092_000",
+              "session": "2025-09-04",
               "topic": "Zdjęcie punktu 23 z porządku obrad - druk nr 169/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1093_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1093_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie ustalenia lokalizacji inwestycji mieszkaniowej przy ulicy Prezydenta Gabriela Narutowicza 75a i Tramwajowej bez numeru i inwestycji towarzyszących w rejonie ulicy Tramwajowej w Łodzi - druk nr 170/2025 wraz z autopopraką.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1097_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1097_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic Pomorskiej i Mileszki - druk nr 160/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-03_1099_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1099_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyznania nieruchomości zamiennych - nieruchomości stanowiącej własność Miasta Łodzi oraz udziału w prawie własności nieruchomości stanowiącego własność Miasta Łodzi, w ramach odszkodowania z tytułu nabycia z mocy prawa przez Miasto Łódź nieruchomości przeznaczonych pod drogi publiczne - druk nr 165/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1192_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1192_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8b - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1208_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1208_000",
+              "session": "2025-10-23",
               "topic": "Komitet Obrony Demokracji (region łódzki)",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1211_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1211_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2025 rok - druk nr 223/2025 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1213_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1213_000",
+              "session": "2025-10-23",
               "topic": "8A. Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi - druk nr 229/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1214_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1214_000",
+              "session": "2025-10-23",
               "topic": "8B. Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1215_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1215_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie określenia wysokości stawek podatku od nieruchomości na 2026 rok - druk nr 227/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1216_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1216_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie określenia wysokości stawek podatku od środków transportowych na 2026 rok - druk nr 228/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1226_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1226_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy alei 1 Maja 58 i ulicy Przechodniej 30 oraz na odstąpienie od zbycia w drodze przetargu nieruchomości - druk nr 226/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1232_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1232_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 1",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1234_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1234_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 4",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1235_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1235_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 5",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1236_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1236_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 6",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1237_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1237_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 7",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1238_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1238_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 8",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1239_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1239_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 9",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1240_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1240_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 10",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1245_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1245_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 15",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1246_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1246_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 16",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1247_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1247_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 17",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1248_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1248_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 209/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1257_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1257_000",
+              "session": "2025-10-23",
               "topic": "26D. Rozpatrzenie projektu uchwały w sprawie skargi p. ... na działania Dyrektora Zarządu Dróg i Transportu - druk BRM nr 153/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1269_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1269_000",
+              "session": "2025-10-23",
               "topic": "wniosek o odwołanie z Komisji.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -5482,8 +5482,8 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1099_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1099_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyznania nieruchomości zamiennych - nieruchomości stanowiącej własność Miasta Łodzi oraz udziału w prawie własności nieruchomości stanowiącego własność Miasta Łodzi, w ramach odszkodowania z tytułu nabycia z mocy prawa przez Miasto Łódź nieruchomości przeznaczonych pod drogi publiczne - druk nr 165/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -5733,106 +5733,106 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_236_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_236_000",
+              "session": "2024-09-19",
               "topic": "Propozycje ograniczeń czasowych wystąpień.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_254_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_254_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie zmian budżetu oraz zmian w budżecie miasta Łodzi na 2024 rok - druk nr 221/2024 wraz z autopoprawką.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_281_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_281_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie pkt. 33a jako pkt 21a.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_282_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_282_000",
+              "session": "2024-09-19",
               "topic": "Reasumpcja głosowania w sprawie przesunięcia punktu 33a do punktu 21a.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_289_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_289_000",
+              "session": "2024-09-19",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_307_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_307_000",
+              "session": "2024-10-17",
               "topic": "Propozycje ograniczeń czasowych wystąpień.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_326_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_326_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie pozostawienia bez rozpoznania skargi p. … - druk BRM nr 163/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-10-16_329_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_329_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przekazania skargi według właściwości - druk BRM nr 166/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_332_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_332_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie petycji dotyczącej uznania trzech topoli, rosnących w Parku im. Szarych Szeregów, za pomniki przyrody - druk BRM nr 169/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_364_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_364_000",
+              "session": "2024-10-17",
               "topic": "15F. Rozpatrzenie projektu uchwały w sprawie nadania Odznaki „Za Zasługi dla Miasta Łodzi” - druk BRM nr 157/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_371_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_371_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Miejskiego planu adaptacji do zmian klimatu dla miasta Łodzi na lata 2024-2030” - druk nr 228/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_372_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_372_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Planu działań na rzecz zrównoważonej energii i klimatu dla miasta Łodzi (SECAP)” - druk nr 229/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_373_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_373_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Strategii zazieleniania Łodzi” do 2030 r. z perspektywą do 2050 r. - druk nr 230/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_380_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_380_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Gminnego Programu Opieki nad Zabytkami Miasta Łodzi na lata 2024-2027” - druk nr 218/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -6062,92 +6062,92 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1084_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1084_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 187/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1090_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1090_000",
+              "session": "2025-09-04",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie przyjęcia Wieloletniego programu gospodarowania mieszkaniowym zasobem Miasta Łodzi na lata 2025-2030 - druk nr 192/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1093_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1093_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie ustalenia lokalizacji inwestycji mieszkaniowej przy ulicy Prezydenta Gabriela Narutowicza 75a i Tramwajowej bez numeru i inwestycji towarzyszących w rejonie ulicy Tramwajowej w Łodzi - druk nr 170/2025 wraz z autopopraką.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1099_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1099_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyznania nieruchomości zamiennych - nieruchomości stanowiącej własność Miasta Łodzi oraz udziału w prawie własności nieruchomości stanowiącego własność Miasta Łodzi, w ramach odszkodowania z tytułu nabycia z mocy prawa przez Miasto Łódź nieruchomości przeznaczonych pod drogi publiczne - druk nr 165/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1177_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1177_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 26b - Rozpatrzenie projektu uchwały w sprawie wniosku p. …… - druk BRM nr 151 /2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1178_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1178_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 26c - Rozpatrzenie projektu uchwały w sprawie wniosku p…….. - druk BRM nr 152/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1208_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1208_000",
+              "session": "2025-10-23",
               "topic": "Komitet Obrony Demokracji (region łódzki)",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1245_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1245_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 15",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1246_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1246_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 16",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1247_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1247_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 17",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1248_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1248_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 209/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1257_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1257_000",
+              "session": "2025-10-23",
               "topic": "26D. Rozpatrzenie projektu uchwały w sprawie skargi p. ... na działania Dyrektora Zarządu Dróg i Transportu - druk BRM nr 153/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1269_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1269_000",
+              "session": "2025-10-23",
               "topic": "wniosek o odwołanie z Komisji.",
               "their_vote": "za",
               "club_majority": "przeciw"
@@ -6516,29 +6516,29 @@
           "rebellion_count": 14,
           "rebellions": [
             {
-              "vote_id": "2024-09-18_289_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_289_000",
+              "session": "2024-09-19",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_339_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_339_000",
+              "session": "2024-10-17",
               "topic": "15F. Propozycja przyznania 23 Odznak „Za Zasługi dla miasta Łodzi”",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_363_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_363_000",
+              "session": "2024-10-17",
               "topic": "15F. Osoby, które wstrzymały się od głosowania.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_364_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_364_000",
+              "session": "2024-10-17",
               "topic": "15F. Rozpatrzenie projektu uchwały w sprawie nadania Odznaki „Za Zasługi dla Miasta Łodzi” - druk BRM nr 157/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -6579,8 +6579,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1202_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1202_000",
+              "session": "2025-10-23",
               "topic": "p. Jerzy Nawrocki",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -6725,29 +6725,29 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_240_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_240_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 33a - Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_242_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_242_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 5b - Informacja Prezydenta Miasta Łodzi w sprawie pomocy udzielonej przez Miasto mieszkańcom kamienicy przy ul. 1 Maja 23.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_282_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_282_000",
+              "session": "2024-09-19",
               "topic": "Reasumpcja głosowania w sprawie przesunięcia punktu 33a do punktu 21a.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_289_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_289_000",
+              "session": "2024-09-19",
               "topic": "21A. Rozpatrzenie projektu uchwały w sprawie nadania ulicy nazwy Pasaż Margaret Thatcher - druk BRM nr 154/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -6872,43 +6872,43 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1087_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1087_000",
+              "session": "2025-09-04",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonej w Łodzi przy ulicy gen. Jarosława Dąbrowskiego 23 oraz na odstąpienie od zbycia jej w drodze przetargu - druk nr 166/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1234_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1234_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 4",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1254_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1254_000",
+              "session": "2025-10-23",
               "topic": "26A. Rozpatrzenie projektu uchwały w sprawie wniosku p. ... - druk BRM nr 150/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -7004,8 +7004,8 @@
           "rebellion_count": 15,
           "rebellions": [
             {
-              "vote_id": "2024-09-18_242_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_242_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 5b - Informacja Prezydenta Miasta Łodzi w sprawie pomocy udzielonej przez Miasto mieszkańcom kamienicy przy ul. 1 Maja 23.",
               "their_vote": "za",
               "club_majority": "przeciw"
@@ -7053,22 +7053,22 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1230_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1230_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położnej w rejonie ulic Rokicińskiej i Jerzego Szaniawskiego - druk nr 208/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -7206,22 +7206,22 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_377_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_377_000",
+              "session": "2024-10-17",
               "topic": "21B. Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic: Małego Rycerza, Suszarnianej, Cierniówki i Wiskickiej - druk nr 246/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_378_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_378_000",
+              "session": "2024-10-17",
               "topic": "21C. Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi obejmującej dolinę rzeki Miazgi, położonej w rejonie ulic Macieja Rataja i Tadeusza Gajcego oraz wschodniej granicy miasta Łodzi - druk nr 247/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -7352,15 +7352,15 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_236_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_236_000",
+              "session": "2024-09-19",
               "topic": "Propozycje ograniczeń czasowych wystąpień.",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2024-09-18_290_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_290_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi obejmującej dolinę rzeki Łódki, położonej w rejonie ulic Konstantynowskiej i Saperów - druk nr 220/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -7436,92 +7436,92 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1100_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1100_000",
+              "session": "2025-09-04",
               "topic": "34A. Rozpatrzenie projektu uchwały w sprawie utworzenia Branżowego Centrum Umiejętności nr 1 w dziedzinie Włókiennictwo i tekstylia w Łodzi przy ul. Stefana Żeromskiego 115 w Łodzi i nadania statutu - druk nr 189/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1127_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1127_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 3, 4 i 6",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1128_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1128_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 5",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1130_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1130_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 8",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1133_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1133_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 11",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1137_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1137_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 17-21, 23, 25, 34, 101, 113",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1139_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1139_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 27, 30, 32, 46, 52, 53, 56, 58, 60, 62, 114-118, 120",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1141_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1141_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 29, 31, 38, 39, 42, 44, 45, 48, 50, 51, 55, 61, 65, 68, 69, 71, 80, 83, 88, 91, 94, 100, 104, 106",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1155_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1155_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi na działania Dyrektora Zarządu Lokali Miejskich - druk BRM nr 132/2025.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1168_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1168_000",
+              "session": "2025-10-07",
               "topic": "36A. Rozpatrzenie projektu uchwały w sprawie nadania skwerowi nazwy Bogumiły Wander - druk BRM nr 145/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1192_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1192_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8b - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1229_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1229_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 1",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1230_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1230_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położnej w rejonie ulic Rokicińskiej i Jerzego Szaniawskiego - druk nr 208/2025.",
               "their_vote": "za",
               "club_majority": "przeciw"
@@ -7848,99 +7848,99 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-03_1082_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1082_000",
+              "session": "2025-09-04",
               "topic": "Wniosek formalny radnego p. Marcina Hencza dotyczący odesłania do Komisji Finansów Budżetu i Polityki Podatkowej projektu uchwały zmieniającej uchwałę w sprawie ustalenia opłat za usługi przewozowe lokalnego transportu zbiorowego w Łodzi - druk BRM 109/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1107_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1107_000",
+              "session": "2025-10-07",
               "topic": "Informacja Prezydenta Miasta Łodzi na temat czynszów w lokalach komunalnych w pkt. 3a",
               "their_vote": "za",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1216_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1216_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie określenia wysokości stawek podatku od środków transportowych na 2026 rok - druk nr 228/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1231_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1231_000",
+              "session": "2025-10-23",
               "topic": "Wniosek formalny w sprawie odesłania projektu uchwały - druk nr 208/2025 do Komisji Planowania Przestrzennego i Architektury.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1232_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1232_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 1",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1233_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1233_000",
+              "session": "2025-10-23",
               "topic": "Uwagi nr 2 i 3",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1234_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1234_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 4",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1235_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1235_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 5",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1236_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1236_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 6",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1237_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1237_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 7",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1238_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1238_000",
+              "session": "2025-10-23",
               "topic": "Uwaga nr 8",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1248_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1248_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 209/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -8169,15 +8169,15 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -8391,8 +8391,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_374_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_374_000",
+              "session": "2024-10-17",
               "topic": "Uwaga nr 1.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
@@ -8566,71 +8566,71 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1127_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1127_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 3, 4 i 6",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1128_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1128_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 5",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1130_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1130_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 8",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1133_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1133_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 11",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1137_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1137_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 17-21, 23, 25, 34, 101, 113",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1139_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1139_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 27, 30, 32, 46, 52, 53, 56, 58, 60, 62, 114-118, 120",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1141_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1141_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 29, 31, 38, 39, 42, 44, 45, 48, 50, 51, 55, 61, 65, 68, 69, 71, 80, 83, 88, 91, 94, 100, 104, 106",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1155_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1155_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi na działania Dyrektora Zarządu Lokali Miejskich - druk BRM nr 132/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1168_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1168_000",
+              "session": "2025-10-07",
               "topic": "36A. Rozpatrzenie projektu uchwały w sprawie nadania skwerowi nazwy Bogumiły Wander - druk BRM nr 145/2025.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1172_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1172_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8b - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
@@ -8845,8 +8845,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1115_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1115_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie Wieloletniej Prognozy Finansowej miasta Łodzi na lata 2025-2050 - druk nr 205/2025 wraz z autopoprawką.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -8997,8 +8997,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -9269,36 +9269,36 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_239_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_239_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 24c - Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie przyjęcia regulaminu określającego wysokość stawek oraz szczegółowe warunki przyznawania dodatków do wynagrodzenia zasadniczego, szczegółowe warunki obliczania i wypłacania wynagrodzenia za godziny ponadwymiarowe i godziny doraźnych zastępstw oraz ..... - druk nr 197/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_368_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_368_000",
+              "session": "2024-10-17",
               "topic": "17B. Rozpatrzenie projektu uchwały w sprawie przyjęcia do realizacji przedsięwzięcia pn.: „Racjonalizacja zużycia energii w obiektach edukacyjnych Miasta Łodzi” oraz złożenia wniosku o jego dofinansowanie w ramach programu priorytetowego „Wymiana źródeł ciepła i poprawa efektywności energetycznej szkół” - druk nr 243/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_373_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_373_000",
+              "session": "2024-10-17",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przyjęcia „Strategii zazieleniania Łodzi” do 2030 r. z perspektywą do 2050 r. - druk nr 230/2024.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_374_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_374_000",
+              "session": "2024-10-17",
               "topic": "Uwaga nr 1.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_381_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_381_000",
+              "session": "2024-10-17",
               "topic": "22A. Rozpatrzenie projektu uchwały zmieniającej uchwałę w sprawie ustanowienia na obszarze rewitalizacji miasta Łodzi Specjalnej Strefy Rewitalizacji - druk nr 251/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -9437,85 +9437,85 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1128_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1128_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 5",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1133_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1133_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 11",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1137_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1137_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 17-21, 23, 25, 34, 101, 113",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1139_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1139_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 27, 30, 32, 46, 52, 53, 56, 58, 60, 62, 114-118, 120",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1141_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1141_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 29, 31, 38, 39, 42, 44, 45, 48, 50, 51, 55, 61, 65, 68, 69, 71, 80, 83, 88, 91, 94, 100, 104, 106",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1146_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1146_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic: Milionowej, Słowiańskiej, Dębowej, Praskiej, Zarzewskiej i płk. Jana Kilińskiego - druk nr 196/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1155_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1155_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi na działania Dyrektora Zarządu Lokali Miejskich - druk BRM nr 132/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1168_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1168_000",
+              "session": "2025-10-07",
               "topic": "36A. Rozpatrzenie projektu uchwały w sprawie nadania skwerowi nazwy Bogumiły Wander - druk BRM nr 145/2025.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1176_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1176_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 26a - Rozpatrzenie projektu uchwały w sprawie wniosku p. ….. - druk BRM nr 150/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1177_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1177_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 26b - Rozpatrzenie projektu uchwały w sprawie wniosku p. …… - druk BRM nr 151 /2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1193_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1193_000",
+              "session": "2025-10-23",
               "topic": "Informacja Przewodniczącego Rady Miejskiej w Łodzi w sprawie wniosku do Prokuratury.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1226_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1226_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy alei 1 Maja 58 i ulicy Przechodniej 30 oraz na odstąpienie od zbycia w drodze przetargu nieruchomości - druk nr 226/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -9611,8 +9611,8 @@
           "rebellion_count": 8,
           "rebellions": [
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -9701,15 +9701,15 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_280_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_280_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic: Północnej, Źródłowej, Pomorskiej, Stefana Banacha, dr. Stefana Kopcińskiego, Stefana Jaracza, Uniwersyteckiej i Wierzbowej oraz ronda Solidarności - druk nr 150/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_362_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_362_000",
+              "session": "2024-10-17",
               "topic": "15F. Stowarzyszenie Klub 500 - Łódź",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -9792,134 +9792,134 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1125_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1125_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 1 i 26",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1126_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1126_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 2",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1127_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1127_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 3, 4 i 6",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1128_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1128_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 5",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1129_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1129_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 7",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1130_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1130_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 8",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1131_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1131_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 9",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1133_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1133_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 11",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1134_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1134_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 12",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1135_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1135_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 13",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1136_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1136_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 16",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1137_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1137_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 17-21, 23, 25, 34, 101, 113",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1139_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1139_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 27, 30, 32, 46, 52, 53, 56, 58, 60, 62, 114-118, 120",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1140_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1140_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 28 i 81",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1141_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1141_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 29, 31, 38, 39, 42, 44, 45, 48, 50, 51, 55, 61, 65, 68, 69, 71, 80, 83, 88, 91, 94, 100, 104, 106",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1144_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1144_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 1",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1145_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1145_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 2",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1146_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1146_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały w sprawie uchwalenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulic: Milionowej, Słowiańskiej, Dębowej, Praskiej, Zarzewskiej i płk. Jana Kilińskiego - druk nr 196/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1269_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1269_000",
+              "session": "2025-10-23",
               "topic": "wniosek o odwołanie z Komisji.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -10008,8 +10008,8 @@
           "rebellion_count": 13,
           "rebellions": [
             {
-              "vote_id": "2024-10-16_334_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_334_000",
+              "session": "2024-10-17",
               "topic": "15B. Rozpatrzenie projektu uchwały w sprawie skargi p. … na działania Prezydenta Miasta Łodzi - druk BRM nr 159/2024.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -10050,8 +10050,8 @@
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1225_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1225_000",
+              "session": "2025-10-23",
               "topic": "Rozpatrzenie projektu uchwały w sprawie wyrażenia zgody na sprzedaż nieruchomości położonych w Łodzi przy ulicach: Mazurskiej 21, Mazurskiej bez numeru i Jacka Malczewskiego 18 - druk nr 207/2025.",
               "their_vote": "przeciw",
               "club_majority": "za"
@@ -10210,15 +10210,15 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_237_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_237_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 24a - Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 227/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-10-16_374_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_374_000",
+              "session": "2024-10-17",
               "topic": "Uwaga nr 1.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -10336,29 +10336,29 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-03_1100_000",
-              "session": "2025-09-03",
+              "vote_id": "2025-09-04_1100_000",
+              "session": "2025-09-04",
               "topic": "34A. Rozpatrzenie projektu uchwały w sprawie utworzenia Branżowego Centrum Umiejętności nr 1 w dziedzinie Włókiennictwo i tekstylia w Łodzi przy ul. Stefana Żeromskiego 115 w Łodzi i nadania statutu - druk nr 189/2025 wraz z autopoprawką.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-10-22_1171_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1171_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8a - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi - druk nr 229/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1172_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1172_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8b - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-10-22_1193_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1193_000",
+              "session": "2025-10-23",
               "topic": "Informacja Przewodniczącego Rady Miejskiej w Łodzi w sprawie wniosku do Prokuratury.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
@@ -10559,29 +10559,29 @@
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_237_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_237_000",
+              "session": "2024-09-19",
               "topic": "Wprowadzenie do porządku obrad punktu 24a - Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi położonej w rejonie ulicy Wielkiej Niedźwiedzicy - druk nr 227/2024.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2024-09-18_260_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_260_000",
+              "session": "2024-09-19",
               "topic": "Uwaga nr 1",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-09-18_290_000",
-              "session": "2024-09-18",
+              "vote_id": "2024-09-19_290_000",
+              "session": "2024-09-19",
               "topic": "Rozpatrzenie projektu uchwały w sprawie przystąpienia do sporządzenia miejscowego planu zagospodarowania przestrzennego dla części obszaru miasta Łodzi obejmującej dolinę rzeki Łódki, położonej w rejonie ulic Konstantynowskiej i Saperów - druk nr 220/2024.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2024-10-16_374_000",
-              "session": "2024-10-16",
+              "vote_id": "2024-10-17_374_000",
+              "session": "2024-10-17",
               "topic": "Uwaga nr 1.",
               "their_vote": "za",
               "club_majority": "wstrzymal_sie"
@@ -10713,50 +10713,50 @@
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1133_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1133_000",
+              "session": "2025-10-07",
               "topic": "Uwaga nr 11",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1139_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1139_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 27, 30, 32, 46, 52, 53, 56, 58, 60, 62, 114-118, 120",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1141_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1141_000",
+              "session": "2025-10-07",
               "topic": "Uwagi nr 29, 31, 38, 39, 42, 44, 45, 48, 50, 51, 55, 61, 65, 68, 69, 71, 80, 83, 88, 91, 94, 100, 104, 106",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-09-24_1147_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1147_000",
+              "session": "2025-10-07",
               "topic": "Łączne procedowanie pkt. od 19 do 23",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
             },
             {
-              "vote_id": "2025-09-24_1155_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1155_000",
+              "session": "2025-10-07",
               "topic": "Rozpatrzenie projektu uchwały w sprawie skargi na działania Dyrektora Zarządu Lokali Miejskich - druk BRM nr 132/2025.",
               "their_vote": "przeciw",
               "club_majority": "wstrzymal_sie"
             },
             {
-              "vote_id": "2025-09-24_1168_000",
-              "session": "2025-09-24",
+              "vote_id": "2025-10-07_1168_000",
+              "session": "2025-10-07",
               "topic": "36A. Rozpatrzenie projektu uchwały w sprawie nadania skwerowi nazwy Bogumiły Wander - druk BRM nr 145/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "przeciw"
             },
             {
-              "vote_id": "2025-10-22_1172_000",
-              "session": "2025-10-22",
+              "vote_id": "2025-10-23_1172_000",
+              "session": "2025-10-23",
               "topic": "Wprowadzenie do porządku obrad punktu 8b - Rozpatrzenie projektu uchwały w sprawie zaciągnięcia pożyczki długoterminowej ze środków Wojewódzkiego Funduszu Ochrony Środowiska i Gospodarki Wodnej w Łodzi -druk nr 230/2025.",
               "their_vote": "wstrzymal_sie",
               "club_majority": "za"
